@@ -1,4 +1,3 @@
-# Leetcode-101.-Symmetric-Tree
 # 🌲 Symmetric Binary Tree Checker 🌲
 
 Ever wondered if your binary tree is as balanced in beauty as a mirror reflection? 🪞  
@@ -19,28 +18,29 @@ Perfect for LeetCode problems, system interviews, or just flexing your C++ skill
 |------------------|------------------|------------------|
 | Symmetry Check 🧩 | O(n)             | O(h)             |
 
-- **n** = number of nodes in the tree
+- **n** = number of nodes in the tree  
 - **h** = height of the tree (space due to recursion stack)
 
 ---
 
 ## 🧑‍💻 Author
 
-**Crafted by:** [@You] 💡  
-🔹 Certified by **IBM in AI**  
-🔹 Passionate about intelligent systems 🤖  
-🔹 Creator of image-based crack detection, smart medicine resale platform, and more! 💊📸
+**👨‍🎓 Ridham Garg**  
+🎓 *Thapar Institute of Engineering and Technology, Patiala*  
+🔹 Certified by **IBM in Artificial Intelligence**  
+🔹 Builder of smart systems like crack detection from images 🧱📷  
+🔹 Creator of a medicine resale platform with real-world impact 💊📦  
+🔹 Explorer of efficient algorithms and elegant code 🧠💻
 
 ---
 
 ## ❤️ Why You'll Love It
 
-- ✅ Clean recursive logic
-- 💡 Intuitive mirror-checking strategy
-- ⚙️ Efficient use of space & time
-- 🧠 Great for practicing tree-based recursion
+- ✅ Clean recursive logic  
+- 💡 Intuitive mirror-checking strategy  
+- ⚙️ Efficient use of space & time  
+- 🧠 Great for mastering tree-based recursion  
 
 ---
 
 > 🧠 _Symmetry isn't just beauty in trees—it's elegance in logic._
-
